@@ -1,1 +1,13 @@
+# Makefile-related
 Makefile.bak
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.pdb
+
+# Executables
+dump_gds2*
+dump_oas*

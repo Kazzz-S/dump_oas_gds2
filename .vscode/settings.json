@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+      "**/*.o": true,
+      "dump_gds2": true,
+      "dump_oas": true
+    }
+}
